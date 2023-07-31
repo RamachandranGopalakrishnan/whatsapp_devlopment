@@ -1,0 +1,22 @@
+p{
+
+    width: 20ch;
+}
+a{
+    text-decoration:none;
+    color:blue;
+    border: 2px solid ;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    cursor:pointer;
+}
+a:visited{
+    color:red;
+}
+a:active{
+    color:green;
+}
+a:hover{
+    color:goldenrod
+}
